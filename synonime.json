@@ -1,0 +1,138 @@
+{
+    "": [{
+        "lettre": " ",
+        "translate": [
+            " "
+        ]
+    }],
+    "ب": [{
+        "lettre": "ﺏ",
+        "translate": [
+            "b"
+        ]
+    }],
+    "ل": [{
+        "lettre": "ل",
+        "translate": [
+            "l"
+        ]
+    }],
+    "ﻩ": [{
+        "lettre": "ﻩ",
+        "translate": [
+            "ha","hi"
+        ]
+    }],
+    "م": [{
+        "lettre": "م",
+        "translate": [
+            "m"
+        ]
+    }],
+    "ﻭ": [{
+        "lettre": "ﻭ",
+        "translate": [
+            "ou","w"
+        ]
+    }],
+    "ﺯ": [{
+        "lettre": "ﺯ",
+        "translate": [
+            "z"
+        ]
+    }],
+    "د": [{
+        "lettre": "د",
+        "translate": [
+            "d"
+        ]
+    }],
+    "ﺍ": [{
+        "lettre": "ﺍ",
+        "translate": [
+            "a"
+        ]
+    }],
+    "ﺭ": [{
+        "lettre": "ﺭ",
+        "translate": [
+            "r","re"
+        ]
+    }]
+    ,
+    "ﺡ": [{
+        "lettre": "ﺡ",
+        "translate": [
+            "7","h"
+        ]
+    }],
+    "ﻕ": [{
+        "lettre": "ﻕ",
+        "translate": [
+            "9"
+        ]
+    }],
+    "ﻑ": [{
+        "lettre": "ﻑ",
+        "translate": [
+            "f"
+        ]
+    }],
+    "ﺥ": [{
+        "lettre": "ﺥ",
+        "translate": [
+            "kh"
+        ]
+    }],
+    "ﻱ": [{
+        "lettre": "ﻱ",
+        "translate": [
+            "i","ay","y"
+        ]
+    }],
+    "ﻙ": [{
+        "lettre": "ﻙ",
+        "translate": [
+            "k","g"
+        ]
+    }],
+    "ﻍ": [{
+        "lettre": "ﻍ",
+        "translate": [
+            "gh"
+        ]
+    }],
+    "ﻉ": [{
+        "lettre": "ﻉ",
+        "translate": [
+            "3"
+        ]
+    }],
+    "ﺱ": [{
+        "lettre": "ﺱ",
+        "translate": [
+            "s"
+        ]
+    }],
+    "ﺵ": [{
+        "lettre": "ﺵ",
+        "translate": [
+            "ch","sh"
+        ]
+    }],
+    "ﺕ": [{
+        "lettre": "ﺕ",
+        "translate": [
+            "t"
+        ]
+    }]
+    ,
+    "ﻥ": [{
+        "lettre": "ﻥ",
+        "translate": [
+            "n"
+        ]
+    }]
+
+
+}
